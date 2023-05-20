@@ -1,0 +1,14 @@
+git remote add "link"
+git clone "link"
+
+git add .
+git commit -m "mensaje
+git push origin main
+git pull origin main
+
+mkdir
+rmdir
+touch
+cp
+mv
+
