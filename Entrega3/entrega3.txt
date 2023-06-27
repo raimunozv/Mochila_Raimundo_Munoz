@@ -1,0 +1,7 @@
+- Un lenguaje de programacion no necesariamente funciona en todos los
+ sistemas operativos.Cada uno de ellos funciona distinto y pueden ser compatibles o no con ciertos lenguajes. 
+
+= virtualbox es un software que permite generar maquinas virtuales utilizando solo 1 hardware
+
+= no, si una maquina virtual falla no impedira el correcto funcionamiento de las otras VM que tengamos instaladas. Son indepenidentes entre si
+
