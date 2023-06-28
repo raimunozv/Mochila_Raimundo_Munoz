@@ -1,0 +1,5 @@
+IP Publica 10.0.2.15
+IP Privada 127.0.0.1
+MAC: 08:00:27:e0:f4:66
+
+Si son diferentes las IP de nuestra VM y mi maquina host
