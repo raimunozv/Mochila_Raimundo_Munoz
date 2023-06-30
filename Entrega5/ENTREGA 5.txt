@@ -1,0 +1,34 @@
+Telnet:
+
+a) Ventajas y desventajas de utilizar el protocolo Telnet:
+El protocolo Telnet fue ampliamente utilizado en el pasado para acceder a sistemas remotos, pero en la actualidad se considera obsoleto y poco seguro. A continuación, se presentan dos ventajas y dos desventajas de utilizar Telnet como protocolo de acceso remoto:
+
+Ventajas:
+
+Es fácil de implementar y de utilizar
+amplia compatibilidad de sistemas operativos y dispositivos
+
+
+Desventajas:
+Es muy poco seguro, ya que no cifra los datos transmitidos.
+Es vulnerable, facil de intervenir y obtener información
+
+
+SSH:
+
+Ventajas:
+
+Su seguridad, ya que cifra todos los datos transmitidos.
+Poca vulnerabilidad, ya que posee sistemas de autenticación robustos
+
+Desventajas:
+
+Es más complejo y difícil de implementar y utilizar.
+Tanto cliente como servidor deben tener y ser compatibles con el software. Hay amplia compatibilidad en general pero no con los dispositivos más antiguos
+
+Diferencias:
+
+
+SSH es más seguro y menos vulnerable que la telnet.
+SSH cifra los datos
+SSh ofrece más funcionalidades y características
